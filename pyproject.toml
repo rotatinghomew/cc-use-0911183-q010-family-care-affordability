@@ -1,0 +1,6 @@
+[project]
+name = "family-care-affordability"
+version = "0.1.0"
+description = "区间收入调查下的照护可负担性与资助覆盖测算的业务数据服务"
+requires-python = ">=3.11"
+dependencies = ["numpy==2.2.6", "scipy==1.15.3"]

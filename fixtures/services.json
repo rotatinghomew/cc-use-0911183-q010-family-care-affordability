@@ -1,0 +1,19 @@
+[
+  {
+    "id": "home",
+    "areas": [
+      "east",
+      "west"
+    ],
+    "cents_per_hour": 4000,
+    "family_minutes_per_hour": 0
+  },
+  {
+    "id": "daycare",
+    "areas": [
+      "east"
+    ],
+    "cents_per_hour": 2500,
+    "family_minutes_per_hour": 30
+  }
+]

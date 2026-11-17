@@ -1,0 +1,3736 @@
+{
+  "households": [
+    {
+      "id": "family0",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 60
+    },
+    {
+      "id": "family1",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 120
+    },
+    {
+      "id": "family2",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 180
+    },
+    {
+      "id": "family3",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 240
+    },
+    {
+      "id": "family4",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 300
+    },
+    {
+      "id": "family5",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 360
+    },
+    {
+      "id": "family6",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 420
+    },
+    {
+      "id": "family7",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 480
+    },
+    {
+      "id": "family8",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 60
+    },
+    {
+      "id": "family9",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 120
+    },
+    {
+      "id": "family10",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 180
+    },
+    {
+      "id": "family11",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 240
+    },
+    {
+      "id": "family12",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 300
+    },
+    {
+      "id": "family13",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 360
+    },
+    {
+      "id": "family14",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 420
+    },
+    {
+      "id": "family15",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 480
+    },
+    {
+      "id": "family16",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 60
+    },
+    {
+      "id": "family17",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 120
+    },
+    {
+      "id": "family18",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 180
+    },
+    {
+      "id": "family19",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 240
+    },
+    {
+      "id": "family20",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 300
+    },
+    {
+      "id": "family21",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 360
+    },
+    {
+      "id": "family22",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 420
+    },
+    {
+      "id": "family23",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 480
+    },
+    {
+      "id": "family24",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 60
+    },
+    {
+      "id": "family25",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 120
+    },
+    {
+      "id": "family26",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 180
+    },
+    {
+      "id": "family27",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 240
+    },
+    {
+      "id": "family28",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 300
+    },
+    {
+      "id": "family29",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 360
+    },
+    {
+      "id": "family30",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 420
+    },
+    {
+      "id": "family31",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 480
+    },
+    {
+      "id": "family32",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 60
+    },
+    {
+      "id": "family33",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 120
+    },
+    {
+      "id": "family34",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 180
+    },
+    {
+      "id": "family35",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 240
+    },
+    {
+      "id": "family36",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 300
+    },
+    {
+      "id": "family37",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 360
+    },
+    {
+      "id": "family38",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 420
+    },
+    {
+      "id": "family39",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 480
+    },
+    {
+      "id": "family40",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 60
+    },
+    {
+      "id": "family41",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 120
+    },
+    {
+      "id": "family42",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 180
+    },
+    {
+      "id": "family43",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 240
+    },
+    {
+      "id": "family44",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 300
+    },
+    {
+      "id": "family45",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 360
+    },
+    {
+      "id": "family46",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 420
+    },
+    {
+      "id": "family47",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 480
+    },
+    {
+      "id": "family48",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 60
+    },
+    {
+      "id": "family49",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 120
+    },
+    {
+      "id": "family50",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 180
+    },
+    {
+      "id": "family51",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 240
+    },
+    {
+      "id": "family52",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 300
+    },
+    {
+      "id": "family53",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 360
+    },
+    {
+      "id": "family54",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 420
+    },
+    {
+      "id": "family55",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 480
+    },
+    {
+      "id": "family56",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 60
+    },
+    {
+      "id": "family57",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 120
+    },
+    {
+      "id": "family58",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 180
+    },
+    {
+      "id": "family59",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 240
+    },
+    {
+      "id": "family60",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 300
+    },
+    {
+      "id": "family61",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 360
+    },
+    {
+      "id": "family62",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 420
+    },
+    {
+      "id": "family63",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 480
+    },
+    {
+      "id": "family64",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 60
+    },
+    {
+      "id": "family65",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 120
+    },
+    {
+      "id": "family66",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 180
+    },
+    {
+      "id": "family67",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 240
+    },
+    {
+      "id": "family68",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 300
+    },
+    {
+      "id": "family69",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 360
+    },
+    {
+      "id": "family70",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 420
+    },
+    {
+      "id": "family71",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 480
+    },
+    {
+      "id": "family72",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 60
+    },
+    {
+      "id": "family73",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 120
+    },
+    {
+      "id": "family74",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 180
+    },
+    {
+      "id": "family75",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 240
+    },
+    {
+      "id": "family76",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 300
+    },
+    {
+      "id": "family77",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 360
+    },
+    {
+      "id": "family78",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 420
+    },
+    {
+      "id": "family79",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 480
+    },
+    {
+      "id": "family80",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 60
+    },
+    {
+      "id": "family81",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 120
+    },
+    {
+      "id": "family82",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 180
+    },
+    {
+      "id": "family83",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 240
+    },
+    {
+      "id": "family84",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 300
+    },
+    {
+      "id": "family85",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 360
+    },
+    {
+      "id": "family86",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 420
+    },
+    {
+      "id": "family87",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 480
+    },
+    {
+      "id": "family88",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 60
+    },
+    {
+      "id": "family89",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 120
+    },
+    {
+      "id": "family90",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 180
+    },
+    {
+      "id": "family91",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 240
+    },
+    {
+      "id": "family92",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 300
+    },
+    {
+      "id": "family93",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 360
+    },
+    {
+      "id": "family94",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 420
+    },
+    {
+      "id": "family95",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 480
+    },
+    {
+      "id": "family96",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 60
+    },
+    {
+      "id": "family97",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 120
+    },
+    {
+      "id": "family98",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 180
+    },
+    {
+      "id": "family99",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 240
+    },
+    {
+      "id": "family100",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 300
+    },
+    {
+      "id": "family101",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 360
+    },
+    {
+      "id": "family102",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 420
+    },
+    {
+      "id": "family103",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 480
+    },
+    {
+      "id": "family104",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 60
+    },
+    {
+      "id": "family105",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 120
+    },
+    {
+      "id": "family106",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 180
+    },
+    {
+      "id": "family107",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 240
+    },
+    {
+      "id": "family108",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 300
+    },
+    {
+      "id": "family109",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 360
+    },
+    {
+      "id": "family110",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 420
+    },
+    {
+      "id": "family111",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 480
+    },
+    {
+      "id": "family112",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 60
+    },
+    {
+      "id": "family113",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 120
+    },
+    {
+      "id": "family114",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 180
+    },
+    {
+      "id": "family115",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 240
+    },
+    {
+      "id": "family116",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 300
+    },
+    {
+      "id": "family117",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 360
+    },
+    {
+      "id": "family118",
+      "area": "east",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 420
+    },
+    {
+      "id": "family119",
+      "area": "west",
+      "eligible_from": "2026-01-01",
+      "eligible_until": null,
+      "available_minutes": 480
+    }
+  ],
+  "residents": [
+    {
+      "id": "older0",
+      "household": "family0",
+      "needs": {
+        "home": 4,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "second0",
+      "household": "family0",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older1",
+      "household": "family1",
+      "needs": {
+        "home": 5,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older2",
+      "household": "family2",
+      "needs": {
+        "home": 6,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older3",
+      "household": "family3",
+      "needs": {
+        "home": 7,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older4",
+      "household": "family4",
+      "needs": {
+        "home": 8,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older5",
+      "household": "family5",
+      "needs": {
+        "home": 9,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older6",
+      "household": "family6",
+      "needs": {
+        "home": 10,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older7",
+      "household": "family7",
+      "needs": {
+        "home": 11,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "second7",
+      "household": "family7",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older8",
+      "household": "family8",
+      "needs": {
+        "home": 12,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older9",
+      "household": "family9",
+      "needs": {
+        "home": 13,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older10",
+      "household": "family10",
+      "needs": {
+        "home": 4,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older11",
+      "household": "family11",
+      "needs": {
+        "home": 5,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older12",
+      "household": "family12",
+      "needs": {
+        "home": 6,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older13",
+      "household": "family13",
+      "needs": {
+        "home": 7,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older14",
+      "household": "family14",
+      "needs": {
+        "home": 8,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "second14",
+      "household": "family14",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older15",
+      "household": "family15",
+      "needs": {
+        "home": 9,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older16",
+      "household": "family16",
+      "needs": {
+        "home": 10,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older17",
+      "household": "family17",
+      "needs": {
+        "home": 11,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older18",
+      "household": "family18",
+      "needs": {
+        "home": 12,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older19",
+      "household": "family19",
+      "needs": {
+        "home": 13,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older20",
+      "household": "family20",
+      "needs": {
+        "home": 4,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older21",
+      "household": "family21",
+      "needs": {
+        "home": 5,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "second21",
+      "household": "family21",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older22",
+      "household": "family22",
+      "needs": {
+        "home": 6,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older23",
+      "household": "family23",
+      "needs": {
+        "home": 7,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older24",
+      "household": "family24",
+      "needs": {
+        "home": 8,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older25",
+      "household": "family25",
+      "needs": {
+        "home": 9,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older26",
+      "household": "family26",
+      "needs": {
+        "home": 10,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older27",
+      "household": "family27",
+      "needs": {
+        "home": 11,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older28",
+      "household": "family28",
+      "needs": {
+        "home": 12,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "second28",
+      "household": "family28",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older29",
+      "household": "family29",
+      "needs": {
+        "home": 13,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older30",
+      "household": "family30",
+      "needs": {
+        "home": 4,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older31",
+      "household": "family31",
+      "needs": {
+        "home": 5,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older32",
+      "household": "family32",
+      "needs": {
+        "home": 6,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older33",
+      "household": "family33",
+      "needs": {
+        "home": 7,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older34",
+      "household": "family34",
+      "needs": {
+        "home": 8,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older35",
+      "household": "family35",
+      "needs": {
+        "home": 9,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "second35",
+      "household": "family35",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older36",
+      "household": "family36",
+      "needs": {
+        "home": 10,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older37",
+      "household": "family37",
+      "needs": {
+        "home": 11,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older38",
+      "household": "family38",
+      "needs": {
+        "home": 12,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older39",
+      "household": "family39",
+      "needs": {
+        "home": 13,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older40",
+      "household": "family40",
+      "needs": {
+        "home": 4,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older41",
+      "household": "family41",
+      "needs": {
+        "home": 5,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older42",
+      "household": "family42",
+      "needs": {
+        "home": 6,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "second42",
+      "household": "family42",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older43",
+      "household": "family43",
+      "needs": {
+        "home": 7,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older44",
+      "household": "family44",
+      "needs": {
+        "home": 8,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older45",
+      "household": "family45",
+      "needs": {
+        "home": 9,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older46",
+      "household": "family46",
+      "needs": {
+        "home": 10,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older47",
+      "household": "family47",
+      "needs": {
+        "home": 11,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older48",
+      "household": "family48",
+      "needs": {
+        "home": 12,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older49",
+      "household": "family49",
+      "needs": {
+        "home": 13,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "second49",
+      "household": "family49",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older50",
+      "household": "family50",
+      "needs": {
+        "home": 4,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older51",
+      "household": "family51",
+      "needs": {
+        "home": 5,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older52",
+      "household": "family52",
+      "needs": {
+        "home": 6,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older53",
+      "household": "family53",
+      "needs": {
+        "home": 7,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older54",
+      "household": "family54",
+      "needs": {
+        "home": 8,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older55",
+      "household": "family55",
+      "needs": {
+        "home": 9,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older56",
+      "household": "family56",
+      "needs": {
+        "home": 10,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "second56",
+      "household": "family56",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older57",
+      "household": "family57",
+      "needs": {
+        "home": 11,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older58",
+      "household": "family58",
+      "needs": {
+        "home": 12,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older59",
+      "household": "family59",
+      "needs": {
+        "home": 13,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older60",
+      "household": "family60",
+      "needs": {
+        "home": 4,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older61",
+      "household": "family61",
+      "needs": {
+        "home": 5,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older62",
+      "household": "family62",
+      "needs": {
+        "home": 6,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older63",
+      "household": "family63",
+      "needs": {
+        "home": 7,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "second63",
+      "household": "family63",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older64",
+      "household": "family64",
+      "needs": {
+        "home": 8,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older65",
+      "household": "family65",
+      "needs": {
+        "home": 9,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older66",
+      "household": "family66",
+      "needs": {
+        "home": 10,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older67",
+      "household": "family67",
+      "needs": {
+        "home": 11,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older68",
+      "household": "family68",
+      "needs": {
+        "home": 12,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older69",
+      "household": "family69",
+      "needs": {
+        "home": 13,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older70",
+      "household": "family70",
+      "needs": {
+        "home": 4,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "second70",
+      "household": "family70",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older71",
+      "household": "family71",
+      "needs": {
+        "home": 5,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older72",
+      "household": "family72",
+      "needs": {
+        "home": 6,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older73",
+      "household": "family73",
+      "needs": {
+        "home": 7,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older74",
+      "household": "family74",
+      "needs": {
+        "home": 8,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older75",
+      "household": "family75",
+      "needs": {
+        "home": 9,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older76",
+      "household": "family76",
+      "needs": {
+        "home": 10,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older77",
+      "household": "family77",
+      "needs": {
+        "home": 11,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "second77",
+      "household": "family77",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older78",
+      "household": "family78",
+      "needs": {
+        "home": 12,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older79",
+      "household": "family79",
+      "needs": {
+        "home": 13,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older80",
+      "household": "family80",
+      "needs": {
+        "home": 4,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older81",
+      "household": "family81",
+      "needs": {
+        "home": 5,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older82",
+      "household": "family82",
+      "needs": {
+        "home": 6,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older83",
+      "household": "family83",
+      "needs": {
+        "home": 7,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older84",
+      "household": "family84",
+      "needs": {
+        "home": 8,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "second84",
+      "household": "family84",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older85",
+      "household": "family85",
+      "needs": {
+        "home": 9,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older86",
+      "household": "family86",
+      "needs": {
+        "home": 10,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older87",
+      "household": "family87",
+      "needs": {
+        "home": 11,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older88",
+      "household": "family88",
+      "needs": {
+        "home": 12,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older89",
+      "household": "family89",
+      "needs": {
+        "home": 13,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older90",
+      "household": "family90",
+      "needs": {
+        "home": 4,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older91",
+      "household": "family91",
+      "needs": {
+        "home": 5,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "second91",
+      "household": "family91",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older92",
+      "household": "family92",
+      "needs": {
+        "home": 6,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older93",
+      "household": "family93",
+      "needs": {
+        "home": 7,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older94",
+      "household": "family94",
+      "needs": {
+        "home": 8,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older95",
+      "household": "family95",
+      "needs": {
+        "home": 9,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older96",
+      "household": "family96",
+      "needs": {
+        "home": 10,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older97",
+      "household": "family97",
+      "needs": {
+        "home": 11,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older98",
+      "household": "family98",
+      "needs": {
+        "home": 12,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "second98",
+      "household": "family98",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older99",
+      "household": "family99",
+      "needs": {
+        "home": 13,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older100",
+      "household": "family100",
+      "needs": {
+        "home": 4,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older101",
+      "household": "family101",
+      "needs": {
+        "home": 5,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older102",
+      "household": "family102",
+      "needs": {
+        "home": 6,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older103",
+      "household": "family103",
+      "needs": {
+        "home": 7,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older104",
+      "household": "family104",
+      "needs": {
+        "home": 8,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older105",
+      "household": "family105",
+      "needs": {
+        "home": 9,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "second105",
+      "household": "family105",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older106",
+      "household": "family106",
+      "needs": {
+        "home": 10,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older107",
+      "household": "family107",
+      "needs": {
+        "home": 11,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older108",
+      "household": "family108",
+      "needs": {
+        "home": 12,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older109",
+      "household": "family109",
+      "needs": {
+        "home": 13,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older110",
+      "household": "family110",
+      "needs": {
+        "home": 4,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older111",
+      "household": "family111",
+      "needs": {
+        "home": 5,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older112",
+      "household": "family112",
+      "needs": {
+        "home": 6,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "second112",
+      "household": "family112",
+      "needs": {
+        "home": 6
+      }
+    },
+    {
+      "id": "older113",
+      "household": "family113",
+      "needs": {
+        "home": 7,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older114",
+      "household": "family114",
+      "needs": {
+        "home": 8,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older115",
+      "household": "family115",
+      "needs": {
+        "home": 9,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older116",
+      "household": "family116",
+      "needs": {
+        "home": 10,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older117",
+      "household": "family117",
+      "needs": {
+        "home": 11,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "older118",
+      "household": "family118",
+      "needs": {
+        "home": 12,
+        "daycare": 2
+      }
+    },
+    {
+      "id": "older119",
+      "household": "family119",
+      "needs": {
+        "home": 13,
+        "daycare": 0
+      }
+    },
+    {
+      "id": "second119",
+      "household": "family119",
+      "needs": {
+        "home": 6
+      }
+    }
+  ],
+  "income": [
+    {
+      "id": "income0",
+      "household": "family0",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": 250000
+    },
+    {
+      "id": "income1",
+      "household": "family1",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income2",
+      "household": "family2",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income3",
+      "household": "family3",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income4",
+      "household": "family4",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income5",
+      "household": "family5",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income6",
+      "household": "family6",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income7",
+      "household": "family7",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income8",
+      "household": "family8",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income9",
+      "household": "family9",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": 150000
+    },
+    {
+      "id": "income10",
+      "household": "family10",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income11",
+      "household": "family11",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income12",
+      "household": "family12",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income13",
+      "household": "family13",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income14",
+      "household": "family14",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income15",
+      "household": "family15",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income16",
+      "household": "family16",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income17",
+      "household": "family17",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income18",
+      "household": "family18",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": 450000
+    },
+    {
+      "id": "income19",
+      "household": "family19",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income20",
+      "household": "family20",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income21",
+      "household": "family21",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income22",
+      "household": "family22",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income23",
+      "household": "family23",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income24",
+      "household": "family24",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income25",
+      "household": "family25",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income26",
+      "household": "family26",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income27",
+      "household": "family27",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": 50000
+    },
+    {
+      "id": "income28",
+      "household": "family28",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income29",
+      "household": "family29",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income30",
+      "household": "family30",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income31",
+      "household": "family31",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income32",
+      "household": "family32",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income33",
+      "household": "family33",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income34",
+      "household": "family34",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income35",
+      "household": "family35",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income36",
+      "household": "family36",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": 450000
+    },
+    {
+      "id": "income37",
+      "household": "family37",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income38",
+      "household": "family38",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income39",
+      "household": "family39",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income40",
+      "household": "family40",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income41",
+      "household": "family41",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income42",
+      "household": "family42",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income43",
+      "household": "family43",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income44",
+      "household": "family44",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income45",
+      "household": "family45",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": 150000
+    },
+    {
+      "id": "income46",
+      "household": "family46",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income47",
+      "household": "family47",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income48",
+      "household": "family48",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income49",
+      "household": "family49",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income50",
+      "household": "family50",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income51",
+      "household": "family51",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income52",
+      "household": "family52",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income53",
+      "household": "family53",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income54",
+      "household": "family54",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": 150000
+    },
+    {
+      "id": "income55",
+      "household": "family55",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income56",
+      "household": "family56",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income57",
+      "household": "family57",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income58",
+      "household": "family58",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income59",
+      "household": "family59",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income60",
+      "household": "family60",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income61",
+      "household": "family61",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income62",
+      "household": "family62",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income63",
+      "household": "family63",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": 450000
+    },
+    {
+      "id": "income64",
+      "household": "family64",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income65",
+      "household": "family65",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income66",
+      "household": "family66",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income67",
+      "household": "family67",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income68",
+      "household": "family68",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income69",
+      "household": "family69",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income70",
+      "household": "family70",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income71",
+      "household": "family71",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income72",
+      "household": "family72",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": 450000
+    },
+    {
+      "id": "income73",
+      "household": "family73",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income74",
+      "household": "family74",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income75",
+      "household": "family75",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income76",
+      "household": "family76",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income77",
+      "household": "family77",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income78",
+      "household": "family78",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income79",
+      "household": "family79",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income80",
+      "household": "family80",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income81",
+      "household": "family81",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": 50000
+    },
+    {
+      "id": "income82",
+      "household": "family82",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income83",
+      "household": "family83",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income84",
+      "household": "family84",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income85",
+      "household": "family85",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income86",
+      "household": "family86",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income87",
+      "household": "family87",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income88",
+      "household": "family88",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income89",
+      "household": "family89",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income90",
+      "household": "family90",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": 250000
+    },
+    {
+      "id": "income91",
+      "household": "family91",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income92",
+      "household": "family92",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income93",
+      "household": "family93",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income94",
+      "household": "family94",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income95",
+      "household": "family95",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income96",
+      "household": "family96",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income97",
+      "household": "family97",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income98",
+      "household": "family98",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income99",
+      "household": "family99",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": 50000
+    },
+    {
+      "id": "income100",
+      "household": "family100",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income101",
+      "household": "family101",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income102",
+      "household": "family102",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income103",
+      "household": "family103",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income104",
+      "household": "family104",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income105",
+      "household": "family105",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income106",
+      "household": "family106",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income107",
+      "household": "family107",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": null
+    },
+    {
+      "id": "income108",
+      "household": "family108",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": 450000
+    },
+    {
+      "id": "income109",
+      "household": "family109",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income110",
+      "household": "family110",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income111",
+      "household": "family111",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income112",
+      "household": "family112",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income113",
+      "household": "family113",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    },
+    {
+      "id": "income114",
+      "household": "family114",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income115",
+      "household": "family115",
+      "date": "2026-09-01",
+      "lower_cents": null,
+      "upper_cents": null,
+      "verified_cents": null
+    },
+    {
+      "id": "income116",
+      "household": "family116",
+      "date": "2026-09-01",
+      "lower_cents": 400000,
+      "upper_cents": 600000,
+      "verified_cents": null
+    },
+    {
+      "id": "income117",
+      "household": "family117",
+      "date": "2026-09-01",
+      "lower_cents": 200000,
+      "upper_cents": 400000,
+      "verified_cents": 250000
+    },
+    {
+      "id": "income118",
+      "household": "family118",
+      "date": "2026-09-01",
+      "lower_cents": 100000,
+      "upper_cents": 300000,
+      "verified_cents": null
+    },
+    {
+      "id": "income119",
+      "household": "family119",
+      "date": "2026-09-01",
+      "lower_cents": 0,
+      "upper_cents": 200000,
+      "verified_cents": null
+    }
+  ],
+  "survey": [
+    {
+      "id": "survey0",
+      "household": "family0",
+      "inclusion_probability": 0.8,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey1",
+      "household": "family1",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey2",
+      "household": "family2",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey3",
+      "household": "family3",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey4",
+      "household": "family4",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey5",
+      "household": "family5",
+      "inclusion_probability": 0.4,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey6",
+      "household": "family6",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey7",
+      "household": "family7",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey8",
+      "household": "family8",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey9",
+      "household": "family9",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey10",
+      "household": "family10",
+      "inclusion_probability": 0.8,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey11",
+      "household": "family11",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey12",
+      "household": "family12",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey13",
+      "household": "family13",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey14",
+      "household": "family14",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey15",
+      "household": "family15",
+      "inclusion_probability": 0.4,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey16",
+      "household": "family16",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey17",
+      "household": "family17",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey18",
+      "household": "family18",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey19",
+      "household": "family19",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey20",
+      "household": "family20",
+      "inclusion_probability": 0.8,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey21",
+      "household": "family21",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey22",
+      "household": "family22",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey23",
+      "household": "family23",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey24",
+      "household": "family24",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey25",
+      "household": "family25",
+      "inclusion_probability": 0.4,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey26",
+      "household": "family26",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey27",
+      "household": "family27",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey28",
+      "household": "family28",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey29",
+      "household": "family29",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey30",
+      "household": "family30",
+      "inclusion_probability": 0.8,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey31",
+      "household": "family31",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey32",
+      "household": "family32",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey33",
+      "household": "family33",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey34",
+      "household": "family34",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey35",
+      "household": "family35",
+      "inclusion_probability": 0.4,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey36",
+      "household": "family36",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey37",
+      "household": "family37",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey38",
+      "household": "family38",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey39",
+      "household": "family39",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey40",
+      "household": "family40",
+      "inclusion_probability": 0.8,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey41",
+      "household": "family41",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey42",
+      "household": "family42",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey43",
+      "household": "family43",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey44",
+      "household": "family44",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey45",
+      "household": "family45",
+      "inclusion_probability": 0.4,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey46",
+      "household": "family46",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey47",
+      "household": "family47",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey48",
+      "household": "family48",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey49",
+      "household": "family49",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey50",
+      "household": "family50",
+      "inclusion_probability": 0.8,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey51",
+      "household": "family51",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey52",
+      "household": "family52",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey53",
+      "household": "family53",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey54",
+      "household": "family54",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey55",
+      "household": "family55",
+      "inclusion_probability": 0.4,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey56",
+      "household": "family56",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey57",
+      "household": "family57",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey58",
+      "household": "family58",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey59",
+      "household": "family59",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey60",
+      "household": "family60",
+      "inclusion_probability": 0.8,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey61",
+      "household": "family61",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey62",
+      "household": "family62",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey63",
+      "household": "family63",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey64",
+      "household": "family64",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey65",
+      "household": "family65",
+      "inclusion_probability": 0.4,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey66",
+      "household": "family66",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey67",
+      "household": "family67",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey68",
+      "household": "family68",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey69",
+      "household": "family69",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey70",
+      "household": "family70",
+      "inclusion_probability": 0.8,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey71",
+      "household": "family71",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey72",
+      "household": "family72",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey73",
+      "household": "family73",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey74",
+      "household": "family74",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey75",
+      "household": "family75",
+      "inclusion_probability": 0.4,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey76",
+      "household": "family76",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey77",
+      "household": "family77",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey78",
+      "household": "family78",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey79",
+      "household": "family79",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey80",
+      "household": "family80",
+      "inclusion_probability": 0.8,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey81",
+      "household": "family81",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey82",
+      "household": "family82",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey83",
+      "household": "family83",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey84",
+      "household": "family84",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey85",
+      "household": "family85",
+      "inclusion_probability": 0.4,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey86",
+      "household": "family86",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey87",
+      "household": "family87",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey88",
+      "household": "family88",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey89",
+      "household": "family89",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey90",
+      "household": "family90",
+      "inclusion_probability": 0.8,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey91",
+      "household": "family91",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey92",
+      "household": "family92",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey93",
+      "household": "family93",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey94",
+      "household": "family94",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey95",
+      "household": "family95",
+      "inclusion_probability": 0.4,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey96",
+      "household": "family96",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey97",
+      "household": "family97",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey98",
+      "household": "family98",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey99",
+      "household": "family99",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey100",
+      "household": "family100",
+      "inclusion_probability": 0.8,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey101",
+      "household": "family101",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey102",
+      "household": "family102",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey103",
+      "household": "family103",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey104",
+      "household": "family104",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey105",
+      "household": "family105",
+      "inclusion_probability": 0.4,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey106",
+      "household": "family106",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey107",
+      "household": "family107",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey108",
+      "household": "family108",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey109",
+      "household": "family109",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey110",
+      "household": "family110",
+      "inclusion_probability": 0.8,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey111",
+      "household": "family111",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey112",
+      "household": "family112",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey113",
+      "household": "family113",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey114",
+      "household": "family114",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey115",
+      "household": "family115",
+      "inclusion_probability": 0.4,
+      "responded": false,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey116",
+      "household": "family116",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey117",
+      "household": "family117",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": "cost"
+    },
+    {
+      "id": "survey118",
+      "household": "family118",
+      "inclusion_probability": 0.8,
+      "responded": true,
+      "reason_not_applying": null
+    },
+    {
+      "id": "survey119",
+      "household": "family119",
+      "inclusion_probability": 0.4,
+      "responded": true,
+      "reason_not_applying": null
+    }
+  ]
+}

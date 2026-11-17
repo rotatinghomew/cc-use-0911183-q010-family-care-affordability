@@ -1,0 +1,18 @@
+[
+  {
+    "id": "i1",
+    "household": "h1",
+    "date": "2026-09-01",
+    "lower_cents": 200000,
+    "upper_cents": 400000,
+    "verified_cents": null
+  },
+  {
+    "id": "i2",
+    "household": "h2",
+    "date": "2026-09-01",
+    "lower_cents": 100000,
+    "upper_cents": 200000,
+    "verified_cents": 150000
+  }
+]

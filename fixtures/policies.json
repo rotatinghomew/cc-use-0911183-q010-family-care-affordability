@@ -1,0 +1,7 @@
+[
+  {
+    "id": "current",
+    "income_limit_cents": 200000,
+    "max_cents": 20000
+  }
+]

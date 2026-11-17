@@ -1,0 +1,23 @@
+[
+  {
+    "id": "h1",
+    "area": "east",
+    "eligible_from": "2026-01-01",
+    "eligible_until": null,
+    "available_minutes": 300
+  },
+  {
+    "id": "h2",
+    "area": "west",
+    "eligible_from": "2026-01-01",
+    "eligible_until": null,
+    "available_minutes": 120
+  },
+  {
+    "id": "h3",
+    "area": "east",
+    "eligible_from": "2026-01-01",
+    "eligible_until": "2026-10-01",
+    "available_minutes": 100
+  }
+]

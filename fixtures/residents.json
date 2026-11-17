@@ -1,0 +1,24 @@
+[
+  {
+    "id": "r1",
+    "household": "h1",
+    "needs": {
+      "home": 8
+    }
+  },
+  {
+    "id": "r2",
+    "household": "h1",
+    "needs": {
+      "home": 4,
+      "daycare": 4
+    }
+  },
+  {
+    "id": "r3",
+    "household": "h2",
+    "needs": {
+      "home": 10
+    }
+  }
+]

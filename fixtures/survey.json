@@ -1,0 +1,16 @@
+[
+  {
+    "id": "s1",
+    "household": "h1",
+    "inclusion_probability": 0.5,
+    "responded": true,
+    "reason_not_applying": "cost"
+  },
+  {
+    "id": "s2",
+    "household": "h2",
+    "inclusion_probability": 1.0,
+    "responded": false,
+    "reason_not_applying": null
+  }
+]
