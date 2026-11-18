@@ -4,11 +4,12 @@
 
 ## 启动与核对
 
-使用 Python 3.11 或更高版本。现有服务采用标准库运行；数值分析所需的固定版本工具列在 requirements.txt，部署准备时运行 `python3 -m pip install -r requirements.txt`，之后可以断网运行。无需真实个人信息、凭据或远程数据源。
+使用 Python 3.11 或更高版本。现有服务采用标准库运行；数值分析所需的固定版本工具列在 requirements.txt，部署准备时运行 `python3 -m pip install -r requirements-build.txt -r requirements.txt`，构建前端和打包后端的固定版本见 requirements-build.txt；依赖准备完毕后，测试、构建和运行均可断网进行。无需真实个人信息、凭据或远程数据源。
 
 ```sh
 python3 -m unittest discover -s tests -v
 python3 -m compileall -q affordability tests
+python3 -m build --wheel --no-isolation
 python3 -m affordability check
 python3 -m affordability demo
 python3 -m affordability load --database /tmp/affordability-business.sqlite3 --input examples/operations.json
